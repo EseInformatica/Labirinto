@@ -1,5 +1,3 @@
-package maggiolini_labirinto;
-
 public class labirinto {
     
     static int labirinto[][] = {
